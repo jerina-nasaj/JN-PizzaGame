@@ -1,0 +1,6 @@
+c:\users\jerina\documents\visual studio 2015\Projects\PizzaGame\PizzaGame\bin\Debug\PizzaGame.exe.config
+c:\users\jerina\documents\visual studio 2015\Projects\PizzaGame\PizzaGame\bin\Debug\PizzaGame.exe
+c:\users\jerina\documents\visual studio 2015\Projects\PizzaGame\PizzaGame\bin\Debug\PizzaGame.pdb
+c:\users\jerina\documents\visual studio 2015\Projects\PizzaGame\PizzaGame\obj\Debug\PizzaGame.csprojResolveAssemblyReference.cache
+c:\users\jerina\documents\visual studio 2015\Projects\PizzaGame\PizzaGame\obj\Debug\PizzaGame.exe
+c:\users\jerina\documents\visual studio 2015\Projects\PizzaGame\PizzaGame\obj\Debug\PizzaGame.pdb
